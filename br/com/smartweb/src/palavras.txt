@@ -1,0 +1,5 @@
+deploy = implantar
+branch = ramificação
+commit = salvar, registrar, confirmar
+wrap = embrulhar
+requirement = requisito, requerimento, necessidade
